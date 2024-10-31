@@ -58,3 +58,16 @@ The summary of statistics for each event log is presented below:
 
 Logs containing artificial anomalies ranging from 5% to 45% are stored in the folder '**_eventlogs_**'. The file names
 are formatted as _log_name_-_anomaly_ratio_-_ID_.
+
+
+## To Cite Our Paper
+```
+@inproceedings{guan2024comb,
+  title={COMB: Interconnected Transformers-Based Autoencoder for Multi-Perspective Business Process Anomaly Detection},
+  author={Guan, Wei and Cao, Jian and Yao, Yan and Gu, Yang and Qian, Shiyou},
+  booktitle={2024 IEEE International Conference on Web Services (ICWS)},
+  pages={1115--1124},
+  year={2024},
+  organization={IEEE}
+}
+```
