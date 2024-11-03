@@ -1,6 +1,6 @@
 # COMB: Interconnected Transformers-Based Autoencoder for Multi-Perspective Business Process Anomaly Detection
 
-This is the source code of our paper '**COMB: Interconnected Transformers-Based Autoencoder for Multi-Perspective Business Process Anomaly Detections**'.
+This is the source code of our paper '[COMB: Interconnected Transformers-Based Autoencoder for Multi-Perspective Business Process Anomaly Detections](https://ieeexplore.ieee.org/abstract/document/10707475)'.
 
 ## Requirements
 - [Python==3.7.13](https://pytorch.org)
